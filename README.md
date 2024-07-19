@@ -5,7 +5,7 @@
 
 ### 도약 후
 
-![image](https://github.com/user-attachments/assets/a6da6fe3-ceac-493b-9763-24b7dedaa4d0)
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/f6c47fb0-6837-4f7d-9faa-c27d4874b724">
 
 # 우리의 노트는이런걸 지향합니다 ~
 
