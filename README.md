@@ -1,7 +1,7 @@
 # 🐸 개구리를 해부하지말고 만들기... 위한 도약!
 
 ### 도약 전
-![image](https://gist.github.com/user-attachments/assets/96c785ba-c9c6-4133-9e86-9107d2a86585)
+![image](https://github.com/user-attachments/assets/0bb79b55-a57d-4be4-93ea-b6d4fed4dbff)
 
 ### 도약 후
 
