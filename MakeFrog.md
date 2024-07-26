@@ -42,11 +42,11 @@
 >    - 높이 뛰기 위해선 무릎을 굽혔다 펴야해요!
 >    - 다음주에 있을 개발을 위해 하루쯤은 쉬어보는거 어떨까요?  
 > **조건** 
->    - [] 자신만의 스트레스해소법을 생각해보고, 바로 수행하기!
+>    -  자신만의 스트레스해소법을 생각해보고, 바로 수행하기!
   
 ||
 |:---:|
-|![image](https://gist.github.com/user-attachments/assets/d571c45b-a2ef-4ca1-9e9d-64db31454444)|
+|<img width="675" alt="스크린샷_2024-07-26_오후_4 53 07" src="https://github.com/user-attachments/assets/49f3b3ee-2bb8-43ae-baf2-38bd7b0935fc">|
 
 개요 
 
@@ -121,7 +121,7 @@
 
 ||
 |:---:|
-|![image](https://gist.github.com/user-attachments/assets/13ebed8f-34cd-4fa8-a7b2-43cd252ee850)|
+|![img](https://github.com/user-attachments/assets/b1635233-e9bf-4d4c-94c2-1545b6a6fb37)|
 
 
 - 굽은 등과 거북목은 개발자의 고질병이기에, 스트레칭을 통해 관리해주자.
