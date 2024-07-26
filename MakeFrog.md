@@ -130,7 +130,14 @@
 
 ## Q6. 건강 관리하기
 
-- 앞으로의 챌린지를 수행하기 위해서, 챌린지 이후의 개발을 위해서 건강 관리는 필수!
-- 새벽까지 코딩하다 지친 눈을 위해서 눈 운동을 해볼까요?
+> 수정전
+    - 앞으로의 챌린지를 수행하기 위해서, 챌린지 이후의 개발을 위해서 건강 관리는 필수!
+    - 새벽까지 코딩하다 지친 눈을 위해서 눈 운동을 해볼까요?
+        
+        ![image](https://github.com/user-attachments/assets/0153afc0-7625-4b74-b34e-f86987be4738)
+        
+![image](https://gist.github.com/user-attachments/assets/6f53c3bb-63a9-48a4-94e9-0dc7315c29ad)
 
-  ![image](https://github.com/user-attachments/assets/0153afc0-7625-4b74-b34e-f86987be4738)
+- 굽은 등과 거북목은 개발자의 고질병이기에, 스트레칭을 통해 관리해주자.
+- 조건: 체크인 - 체크아웃 할때마다 진행해주기!
+
