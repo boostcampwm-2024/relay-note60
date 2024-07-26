@@ -37,17 +37,32 @@
 
 ## Q1. 추진력 얻기
 
-![alt text](https://blog.kakaocdn.net/dn/Nn4if/btqCdZ5XI0v/ktxmVRvRp0WeLkK0lnSkBk/img.jpg)
+> 수정 전
+    ![alt text](https://blog.kakaocdn.net/dn/Nn4if/btqCdZ5XI0v/ktxmVRvRp0WeLkK0lnSkBk/img.jpg)
+    **개요**
+    
+    - 높이 뛰기 위해선 무릎을 굽혔다 펴야해요!
+    - 다음주에 있을 개발을 위해 하루쯤은 쉬어보는거 어떨까요?
+    
+    **조건**
+    
+    - [] 자신만의 스트레스해소법을 생각해보고, 바로 수행하기!
+  
 
-**개요**
 
-- 높이 뛰기 위해선 무릎을 굽혔다 펴야해요!
 
-- 다음주에 있을 개발을 위해 하루쯤은 쉬어보는거 어떨까요?
+![image](https://gist.github.com/user-attachments/assets/ce5b9276-da09-455a-b13e-8e3aee1200a1)
 
-**조건**
+개요 
 
-- [] 자신만의 스트레스해소법을 생각해보고, 바로 수행하기!
+- 🍚 밥은 먹고 합시다.
+- 점심과 저녁을 먹으면서 추진력을 얻어봐요.
+
+**조건** 
+
+- 밥 2끼먹고 슬랙에 인증하기
+
+
 
 ## Q2. 겨울잠 자기
   **개요**
