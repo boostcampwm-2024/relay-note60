@@ -46,7 +46,7 @@
   
 ||
 |:---:|
-|<img width="675" alt="스크린샷_2024-07-26_오후_4 53 07" src="https://github.com/user-attachments/assets/49f3b3ee-2bb8-43ae-baf2-38bd7b0935fc">|
+|![img](https://github.com/user-attachments/assets/b1635233-e9bf-4d4c-94c2-1545b6a6fb37)|
 
 개요 
 
@@ -56,7 +56,6 @@
 **조건** 
 
 - 밥 2끼먹고 슬랙에 인증하기
-
 
 
 ## Q2. 겨울잠 자기
@@ -121,7 +120,7 @@
 
 ||
 |:---:|
-|![img](https://github.com/user-attachments/assets/b1635233-e9bf-4d4c-94c2-1545b6a6fb37)|
+|<img width="675" alt="스크린샷_2024-07-26_오후_4 53 07" src="https://github.com/user-attachments/assets/49f3b3ee-2bb8-43ae-baf2-38bd7b0935fc">|
 
 
 - 굽은 등과 거북목은 개발자의 고질병이기에, 스트레칭을 통해 관리해주자.
